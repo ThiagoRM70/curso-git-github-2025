@@ -5,3 +5,10 @@ repositórios remotos com GitHub.
 
 Além disso, irá apreender com GitFlow ao final do curso e Visual Studio Code.
 Tudo isso através do curso do TeoMeWhy!
+
+------------
+
+Pessoas participantes:
+
+- Thiago
+
