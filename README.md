@@ -8,6 +8,11 @@ Tudo isso através do curso do TeoMeWhy!
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Verifica o canal do Youtebe e o site, para visualizar mais cursos. Além da agenda
+para estar atualizado!
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 
 ## Fluxo de trabalho Git local
 
