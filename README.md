@@ -6,6 +6,9 @@ repositórios remotos com GitHub.
 Além disso, irá apreender com GitFlow ao final do curso e Visual Studio Code.
 Tudo isso através do curso do TeoMeWhy!
 
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova_branch>
